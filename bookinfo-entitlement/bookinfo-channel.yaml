@@ -7,6 +7,6 @@ metadata:
   namespace: bookinfo-entitlement
 spec:
   type: HelmRepo
-  pathname: https://raw.githubusercontent.com/dymaczew/charts/master/repo/incubator/
+  pathname: https://raw.githubusercontent.com/ICpTrial/SubScriptionSample/master/charts/repo/incubator/
   configMap:
     insecureSkipVerify: true
